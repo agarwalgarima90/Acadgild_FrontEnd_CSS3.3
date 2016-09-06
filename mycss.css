@@ -1,0 +1,28 @@
+body {
+        background-image: url("back.jpg");
+        background-repeat: repeat-y;
+}
+
+.heading {
+        color: white;
+        padding: 20px;
+}
+
+.fields {
+        padding: 10px 100px 10px 10px;
+        background-color: rgba(211, 211, 211, 0.5);
+        border-radius: 5px;
+        border: solid white 1px;
+}
+
+input, textarea {
+        border-radius: 5px;
+        margin-left: 60px;
+        padding-left: 2px;
+}
+
+button {
+        border-radius:10px;
+        background-color: blue;
+        color: white;
+}
